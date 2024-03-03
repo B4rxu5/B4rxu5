@@ -1,5 +1,7 @@
-#  About Me:
+# 💫 About Me:
 Teaching myself Machine Learning.<br><br>I'm currently working on hand written word recognition, music recommendation system & <br>image classification model.<br><br>Ask me about ML models, python.<br><br>
+<img align="center" alt="me" width="400" src="https://b4rxu5.github.io/images/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif">
+
 
 
 ## 🌐 Socials:
