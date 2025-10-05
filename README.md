@@ -4,7 +4,7 @@ Currently working on **Monte Carlo simulations** and **simplifying complex finan
 
 > Aint it crazy, how early lenders in Babylon probably didn’t know it, but they were computing interest like continuous compounding.
 
-![](B4rxu5/B4rxu5/gaussian_gauss.jpg)
+![](gaussian_gauss.jpg)
 
 ---
 
