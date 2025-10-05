@@ -4,7 +4,7 @@ Currently working on **Monte Carlo simulations** and **simplifying complex finan
 
 > Aint it crazy, how early lenders in Babylon probably didn’t know it, but they were computing interest like continuous compounding.
 
-<img align="center" alt="dark-math" width="400" src="https://b4rxu5.github.io/images/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif">
+![math meme](gaussian-gauss-v0-6eyu7f4thiqd1.webp)
 
 ---
 
@@ -33,13 +33,6 @@ Currently working on **Monte Carlo simulations** and **simplifying complex finan
 ![](https://github-contributor-stats.vercel.app/api?username=B4rxu5&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
-### have a laugh soldier, you prolly need it
-![math meme](gaussian-gauss-v0-6eyu7f4thiqd1.webp)
-
-
----
-
 ![Profile Views](https://komarev.com/ghpvc/?username=B4rxu5)
 
 
