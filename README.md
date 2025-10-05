@@ -35,7 +35,7 @@ Currently working on **Monte Carlo simulations** and **simplifying complex finan
 ---
 
 ### have a laugh soldier, you prolly need it
-(https://meme-api.com/gimme/mathmemes?ref=github)
+![](https://meme-api.com/gimme/mathmemes?ref=github)
 
 
 ---
