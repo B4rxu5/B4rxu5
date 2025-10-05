@@ -34,9 +34,9 @@ Currently working on **Monte Carlo simulations** and **simplifying complex finan
 
 ---
 
-###  Math + Dev Meme
-> *"Expectation of my life? 0. Variance? ∞"*  
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+### have a laugh soldier, you prlly need it
+<img src="https://randommeme-five.vercel.app/" width="400" />
+
 
 ---
 
