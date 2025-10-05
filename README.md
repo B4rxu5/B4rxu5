@@ -40,6 +40,7 @@ Currently working on **Monte Carlo simulations** and **simplifying complex finan
 
 ---
 
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FB4rxu5%2FB4rxu5)
+![Profile Views](https://komarev.com/ghpvc/?username=B4rxu5)
+
 
 
