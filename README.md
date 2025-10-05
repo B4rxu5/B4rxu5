@@ -35,7 +35,7 @@ Currently working on **Monte Carlo simulations** and **simplifying complex finan
 ---
 
 ### have a laugh soldier, you prolly need it
-![math meme](https://user-images.githubusercontent.com/B4rxu5/gaussian-gauss-v0-6eyu7f4thiqd1.webp)
+![math meme](gaussian-gauss-v0-6eyu7f4thiqd1.webp)
 
 
 ---
