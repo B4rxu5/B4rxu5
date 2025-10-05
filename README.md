@@ -40,6 +40,6 @@ Currently working on **Monte Carlo simulations** and **simplifying complex finan
 
 ---
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=B4rxu5.profile)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=B4rxu5.B4rxu5)
 
 
