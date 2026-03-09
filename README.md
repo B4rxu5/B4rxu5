@@ -2,7 +2,7 @@
 Aspiring to be good enough to **not speak English**.  
 Currently working on **Monte Carlo simulations** and **simplifying complex financial models**.  
 
-> Aint it crazy, how early lenders in Babylon probably didn’t know it, but they were computing interest like continuous compounding.
+> Aint it crazy, how early lenders in Babylon probably didn’t know it, but they were continuous compounding.
 
 ![](gaussian_gauss.jpg)
 
