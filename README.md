@@ -1,10 +1,5 @@
 #  About Me
-Aspiring to be good enough to **not speak English**.  
-Currently working on **Monte Carlo simulations** and **simplifying complex financial models**.  
-
-> Aint it crazy, how early lenders in Babylon probably didn’t know it, but they were continuous compounding.
-
-![](gaussian_gauss.jpg)
+Passionate about mathematics and finance. Interested in distilling chaos into clarity and developing intuitive models to advance financial literacy and quantitative finance.
 
 ---
 
